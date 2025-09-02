@@ -6,7 +6,9 @@ on_actions = {
 					limit = {
                         is_ai = no
 						num_of_available_civilian_factories  > 0
-						always = no
+						check_variable = {
+							send_fuel_enabled > 1
+						}
                     }
 
 	            	if = {
