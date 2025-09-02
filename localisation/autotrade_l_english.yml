@@ -1,0 +1,3 @@
+﻿l_english:
+ autotrade_info_tt:0 "[?THIS.fuel_k|.1]K/[?THIS.max_fuel_k|.1]K"
+ autotrade_name_tt:0 "§H[THIS.GetFlag][THIS.GetAdjective]§! Trade" 
