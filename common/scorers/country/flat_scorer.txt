@@ -1,0 +1,8 @@
+flat_scorer = {
+  targets = {
+    targets_dynamic = no
+    target_non_existing = no
+    target_array = global.countries
+    score = { base = 0 }
+  }
+}
